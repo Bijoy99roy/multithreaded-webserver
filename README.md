@@ -1,4 +1,4 @@
-# web-webserver
+# Multithreaded Web Server
 
 A simple multithreaded web server built with Rust, capable of serving HTML files and handling basic HTTP requests.
 
